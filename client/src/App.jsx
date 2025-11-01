@@ -47,7 +47,7 @@ function App() {
   return (
     <>
     
-    <h1>APP</h1>
+    {/* <h1>APP</h1> */}
     <Buy state={state}/>
     <Memo state={state}/>
     </>
